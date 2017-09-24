@@ -1,0 +1,2 @@
+0 * * * * /home/luciano/cacau/foxbit.sh
+0 * * * * /home/luciano/cacau/mercadobitcoin.sh
